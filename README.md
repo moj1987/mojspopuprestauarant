@@ -8,7 +8,8 @@ With [live server](https://marketplace.visualstudio.com/items?itemName=ritwickde
 
 ```
 npm install
-npm start
+SB_CLIENT_ID=<put_in_your_client_id> npm start
+
 
 ```
 
