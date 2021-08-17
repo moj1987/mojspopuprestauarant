@@ -30,3 +30,7 @@ footer {
 .navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a {
     color: inherit;
 }
+
+img{
+    max-width:100%;
+}
